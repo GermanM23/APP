@@ -2,7 +2,7 @@ import React from "react";
 import "./index.css";
 import Header from "./Components/Header";
 import Banner from "./Components/Banner";
-import Blog from "./Components/Blog";
+import Blog from "./Components/Burger-Component";
 import News from "./Components/News";
 import styled from "styled-components";
 
